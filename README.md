@@ -17,12 +17,17 @@ Aucun client n’a renseigné ses préférences, nous somme dans une situation d
    - Analyse de la répartition des spectateurs de cinéma en France en 2022 (rapport et étude du Centre National du Cinéma - CNC)
 
 
-6) Visualisation du projet du Streamlit :
+6) Visualisation du projet sur Streamlit :
    - L'utilisateur entre un film qu'il a aimé et l'algorythme lui ressort 3 films recommandés du même genre (avec le synopsis des films, et bande annonce, récuperer via API du site IMDB)
    - l'utilisateur peut choisir un film par acteur, actrice ou réalisateur.
    - une page des films à venir au cours de l'année.
    - une page de film old school les plus populaires entre les années 1950 et 1980. Classé par tranche d'âge de 10 en 10.
-  
+
+ordre de visualisation des fichiers :
+1) https://github.com/data-will/project2_school/blob/main/Power_BI_projet2_PNG.png  (KPI's POWER BI)
+2) https://github.com/data-will/project2_school/blob/main/Streamlit_PNG.png         (Site STREAMLIT)
+3) https://github.com/data-will/project2_school/blob/main/code_projet_2.ipynb       (Code nettoyage des données)
+4) https://github.com/data-will/project2_school/blob/main/Code_streamlit.py         (Code du streamlit)
 _______________________________________________________________________________________________________________________________
 _______________________________________________________________________________________________________________________________
 _______________________________________________________________________________________________________________________________
@@ -51,3 +56,9 @@ No customer has provided their preferences, we are in a cold start situation. Th
    - user can choose a movie by actor, actress or director.
    - a page of upcoming films during the year.
    - a page of the most popular old school films between the 1950s and 1980s. Classified by age group from 10 to 10.
+
+Here's the requested file viewing order:
+1) https://github.com/data-will/project2_school/blob/main/Power_BI_projet2_PNG.png  (KPI's POWER BI)
+2) https://github.com/data-will/project2_school/blob/main/Streamlit_PNG.png         (Site STREAMLIT)
+3) https://github.com/data-will/project2_school/blob/main/code_projet_2.ipynb       (Code pandas)
+4) https://github.com/data-will/project2_school/blob/main/Code_streamlit.py         (Code streamlit)
