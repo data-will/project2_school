@@ -18,7 +18,7 @@ Aucun client n’a renseigné ses préférences, nous somme dans une situation d
 
 
 6) Visualisation du projet du Streamlit :
-   - L'utilisateur entre un film qu'il a aimé et l'algorythme lui ressort 3 films recommandés du même genre.
+   - L'utilisateur entre un film qu'il a aimé et l'algorythme lui ressort 3 films recommandés du même genre (avec le synopsis des films, et bande annonce, récuperer via API du site IMDB)
    - l'utilisateur peut choisir un film par acteur, actrice ou réalisateur.
    - une page des films à venir au cours de l'année.
    - une page de film old school les plus populaires entre les années 1950 et 1980. Classé par tranche d'âge de 10 en 10.
